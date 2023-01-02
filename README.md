@@ -1,4 +1,4 @@
-# 2d-side-scroller
+# Spooky Side Scroller
 A 2D side scroller game where you must kill as many enemies as possible within the time limit.
 
 https://spooky-sidescroller-jb.netlify.app/
